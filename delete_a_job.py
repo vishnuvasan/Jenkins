@@ -11,7 +11,12 @@
 #	Exception Handler	: When the Requested job is not found or when no job name
 #				  is supplied
 #
+#	Usage			: Open command Window and type the commands as below
+#
+#				  delete_A_job.py Job_Name_To_Be_Deleted
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL

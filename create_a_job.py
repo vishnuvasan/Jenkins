@@ -12,7 +12,12 @@
 #
 #	Exception Handler	: Nil
 #
+#	Usage			: Open Command Window and type the commands as below
+#
+#				  create_a_job.py New_Job_Name XML_Configuration_File
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL

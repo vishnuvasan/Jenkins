@@ -13,7 +13,12 @@
 #	Exception Handler	: When the Supplied Existing Job Name is False
 #				  or Inexistent
 #
+#	Usage			: Open Command Window and Type the Commands as below
+#
+#				  rename_a_job.py Current_Job_Name New_Job_Name
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL

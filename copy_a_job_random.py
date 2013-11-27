@@ -4,7 +4,7 @@
 #	Function Desc		: To Copy a Random Job in Jenkins to check if the
 #				  Copy Functionality is working
 #
-#	No of Arguments 	: 2
+#	No of Arguments 	: 1
 #
 #	Arguments:
 #	
@@ -12,7 +12,12 @@
 #
 #	Exception Handler	: If there are no jobs to copy
 #
+#	Usage			: Open Command Windows and type the commands as below
+#
+#				  copy_a_job_random.py New_Job_Name
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL

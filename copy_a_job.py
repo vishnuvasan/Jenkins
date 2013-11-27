@@ -12,7 +12,13 @@
 #
 #	Exception Handler	: When the Supplied Existing Job Name is False
 #
+#
+#	Usage			: Open Command Window and type the commands as below
+#
+#				  copy_a_job.py Existing_job_Name New_Job_Name
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL

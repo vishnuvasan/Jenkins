@@ -9,7 +9,12 @@
 #
 #	Exception Handler	:
 #
+#	Usage			: Open Command Window and type the commands as below
+#
+#				  list_jobs.py
+#
 #	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#
 #	Date			: 27.11.2013
 #	
 #	Licensed under GPL
