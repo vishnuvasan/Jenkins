@@ -16,8 +16,6 @@
 #
 ###########################################################################
 
-
-
 import jenkinsapi
 from jenkinsapi import *
 from jenkinsapi.jenkins import Jenkins
