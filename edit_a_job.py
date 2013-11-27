@@ -16,7 +16,7 @@
 #
 #	Usage			: Open Command Window and type the commands as below
 #
-#				  create_a_job.py New_Job_Name XML_Configuration_File
+#				  edit_a_job.py New_Job_Name XML_Configuration_File
 #
 #	Disclaimer		: As reconfig_job API is removed in the current version
 #				  of jenkins, create_job API is used
@@ -44,12 +44,13 @@ print "\n XML File	: "+XML_File+"\n"
 
 Jenkins_server=Jenkins('http://localhost:8080')
 
-#This file should be located in the same directory where the script is executed
-#This file decides so many parameters for the Job.So Before Creating a Job it is like configuration
+#This XML file should be located in the same directory where the script is executed
+#This XML file decides so many jenkins parameters for the Job like configuration system,version control etc.
+#This XML File is used as a configuration either for creation or Reconfiguration
 xml=resource_string(__name__,XML_File)
 #if you want the sample content just do this command for any existing job 
-#
 
-#Now it should have created a job for you with the configuration you have mentioned in test.xml
+
+#Now it should have reconfigured the job for you with the configuration you have mentioned in test.xml
 Jenkins_server.create_job(New_Job_Name,xml)
 
