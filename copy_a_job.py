@@ -1,19 +1,19 @@
 ##########################################################################
 #				COPY_A_JOB.py
-#	Function Desc: 
-#			To Copy a Job in Jenkins
 #
-#	No of Arguments to be passed : 2
+#	Function Desc		: To Copy a Job in Jenkins
 #
-#	Arguments:
-#	 	arg 1 : Name of the Existing Job to be Copied
-#		arg 2 : New Job Name
+#	No of Arguments 	: 2
 #
-#	Exception Handler:
-#		When the Supplied Existing Job Name is False
+#	Arguments		:
+#	 	
+#	arg 1 			: Name of the Existing Job to be Copied
+#	arg 2 			: New Job Name
 #
-#	Author 	: Sujith Kalyan/Vishnu Vasan Nehru
-#	Date	: 27.11.2013
+#	Exception Handler	: When the Supplied Existing Job Name is False
+#
+#	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#	Date			: 27.11.2013
 #	
 #	Licensed under GPL
 #

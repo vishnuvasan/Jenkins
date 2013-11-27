@@ -1,19 +1,19 @@
 ##########################################################################
 #				COPY_A_JOB_RANDOM.py
-#	Function Desc: 
-#			To Copy a Random Job in Jenkins to check if the
-#			Copy Functionality is working
 #
-#	No of Arguments to be passed : 2
+#	Function Desc		: To Copy a Random Job in Jenkins to check if the
+#				  Copy Functionality is working
+#
+#	No of Arguments 	: 2
 #
 #	Arguments:
-#	 	arg 1 : New Job Name
+#	
+#	arg 1 			: New Job Name
 #
-#	Exception Handler:
-#		If there are no jobs to copy
+#	Exception Handler	: If there are no jobs to copy
 #
-#	Author 	: Sujith Kalyan/Vishnu Vasan Nehru
-#	Date	: 27.11.2013
+#	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#	Date			: 27.11.2013
 #	
 #	Licensed under GPL
 #

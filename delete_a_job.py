@@ -1,19 +1,18 @@
 ##########################################################################
 #				DELETE_A_JOB.py
-#	Function Desc: 
-#			To Delete a Job in Jenkins
 #
-#	No of Arguments to be passed : 1
+#	Function Desc		: To Delete a Job in Jenkins
+#
+#	No of Arguments 	: 1
 #
 #	Arguments:
-#	 	arg 1 : Name of the Job to be Deleted
+#	arg 1 			: Name of the Job to be Deleted
 #
-#	Exception Handler:
-#		When the Requested job is not found or when no job name
-#		is supplied
+#	Exception Handler	: When the Requested job is not found or when no job name
+#				  is supplied
 #
-#	Author 	: Sujith Kalyan/Vishnu Vasan Nehru
-#	Date	: 27.11.2013
+#	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#	Date			: 27.11.2013
 #	
 #	Licensed under GPL
 #

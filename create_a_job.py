@@ -1,16 +1,19 @@
 ##########################################################################
 #				CREATE_A_JOB.py
-#	Function Desc: 
-#			To Create a New Job in Jenkins
 #
-#	No of Arguments to be passed : 2
+#	Function Desc		: To Create a New Job in Jenkins
 #
-#	Arguments:
-#	 	arg 1 : New Job Name
-#		arg 2 : XML Configuration Available in the directory
+#	No of Arguments		: 2
 #
-#	Author 	: Sujith Kalyan/Vishnu Vasan Nehru
-#	Date	: 27.11.2013
+#	Arguments		:
+#
+#	arg 1 			: New Job Name
+#	arg 2 			: XML Configuration Available in the directory
+#
+#	Exception Handler	: Nil
+#
+#	Author 			: Sujith Kalyan/Vishnu Vasan Nehru
+#	Date			: 27.11.2013
 #	
 #	Licensed under GPL
 #
