@@ -44,7 +44,7 @@ Job_Exist=Jenkins_Server.has_job(Existing_Job_Name)
 
 if Job_Exist is False:
 	print "The Job " + Existing_Job_Name + " does not Exist in Jenkins \n"
-	raise BreakoutException
+	raise Exception("The Job"+ Existing_Job_Name + " does not Exist in Jenkins")
 elif Job_Exist is True:
 	print "The Job " + Existing_Job_Name + " does  Exist in Jenkins \n"
 

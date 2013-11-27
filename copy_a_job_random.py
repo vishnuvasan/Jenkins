@@ -43,7 +43,7 @@ for job in range(len(Jobs)):
 print ""
 if len(Jobs) is 0:
 	print "No Jobs Exist to copy"
-	raise BreakoutException
+	raise Exception("No Jobs Exist to copy")
 
 sample_job_to_copy=Jobs[0]
 
